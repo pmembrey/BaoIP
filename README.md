@@ -15,7 +15,7 @@ It is built as a shared library with a simple API to allow:
 
 This will likely expand, although part of the reason it is being done as an isolated library is to ultimately allow for it to be ported to other operating systems such as [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS).
 
-Another key reason for this project's existence is to help improve my low-level networking knowledge and to improve my C skills. You're likely to find bugs, strange implementations and all manner of weird and not to wonderful things in here. I'm always up for feedback, but remember, I don't claim this is a professional project, just something small to pass the time :)
+Another key reason for this project's existence is to help improve my low-level networking knowledge and to improve my C skills. You're likely to find bugs, strange implementations and all manner of weird and not too wonderful things in here. I'm always up for feedback, but remember, I don't claim this is a professional project, just something small to pass the time :)
 
 
 Credits
